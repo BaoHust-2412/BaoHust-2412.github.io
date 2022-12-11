@@ -1,0 +1,11 @@
+
+# dependencies
+/node_modules
+
+.DS_Store
+
+/src/pages/.env
+
+
+
+.env

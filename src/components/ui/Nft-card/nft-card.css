@@ -1,0 +1,53 @@
+@media only screen and (max-width: 992px) {
+  .nft__title {
+    font-size: 0.8rem !important;
+  }
+
+  .creator__info h6 {
+    font-size: 0.6rem !important;
+  }
+
+  .creator__info p {
+    font-size: 0.7rem !important;
+  }
+
+  .bid__btn {
+    padding: 4px 20px !important;
+    font-size: 0.6rem !important;
+  }
+  .history__link a {
+    font-size: 0.6rem !important;
+  }
+}
+
+
+#description {
+  height: 50px;
+  border: 0.3px solid #ffa500;
+  padding: 5px 10px;
+  margin-top: 10px;
+  border-radius: 15px;
+}
+
+.single__nft__card {
+  padding: 20px;
+  background: #343444;
+  border-radius: 10px;
+  height: auto;
+}
+
+#nftcard {
+  padding: 20px;
+  background: #343444;
+  border-radius: 10px;
+  height: auto;
+  border: none
+}
+
+.nft__content {
+  margin: -20px -20px 0px -20px;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-radius: 10px 10px 0px 0px;
+  background: #2e2e3b;
+}
